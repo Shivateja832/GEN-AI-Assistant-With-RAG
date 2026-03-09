@@ -1,0 +1,6 @@
+flask
+flask-cors
+google-genai
+numpy
+scikit-learn
+python-dotenv

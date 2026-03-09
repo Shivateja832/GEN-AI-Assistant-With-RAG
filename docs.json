@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "To reset your password, navigate to the Settings menu, then select Security, and click on Change Password. Enter your current password and choose a new secure one. Make sure to confirm the new password."
+  },
+  {
+    "title": "Account Login",
+    "content": "To log in to your account, go to the main login page and enter your registered email address and password. If you have forgotten your password, use the 'Forgot Password' link to reset it."
+  },
+  {
+    "title": "Update Profile",
+    "content": "You can update your profile information by going to the Profile section in your account dashboard. Edit your name, email, or other details and save the changes."
+  },
+  {
+    "title": "Contact Support",
+    "content": "For any issues, contact our support team via the Help Center. You can submit a ticket or chat with a representative. Response time is usually within 24 hours."
+  },
+  {
+    "title": "Two-Factor Authentication",
+    "content": "Enable two-factor authentication for better security. Go to Settings > Security > 2FA, and follow the instructions to set it up using an authenticator app."
+  },
+  {
+    "title": "Billing Information",
+    "content": "View and update your billing details in the Billing section. You can change payment methods, view invoices, or cancel subscriptions from there."
+  },
+  {
+    "title": "Privacy Settings",
+    "content": "Manage your privacy by adjusting settings in the Privacy tab. Control who can see your information and opt out of data sharing if desired."
+  }
+]
